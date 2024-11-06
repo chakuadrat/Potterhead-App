@@ -38,6 +38,6 @@ Untuk menjalankan aplikasi ini, ikuti langkah-langkah berikut:
    ```bash
    npm install
 
-4. ##Jalankan aplikasi:##
+4. **Jalankan aplikasi:**
    ```bash
    npm run start

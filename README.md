@@ -32,7 +32,7 @@ Untuk menjalankan aplikasi ini, ikuti langkah-langkah berikut:
 
 2. **Masuk ke folder:**
    ```bash
-   cd potterhead
+   cd Potterhead-App
 
 3. **Install dependencies:**
    ```bash
